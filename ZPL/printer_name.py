@@ -1,0 +1,1 @@
+printer_name = "ZDesigner GC420d"
